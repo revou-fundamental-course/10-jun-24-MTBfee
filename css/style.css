@@ -1,0 +1,87 @@
+body {
+    background-color: #16345C;
+}
+.judul {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.isi {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jenis-konversi {
+    color: white;
+}
+.desc-judul {
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desc-angka{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.desc-konversi {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#input-angka {
+    border-radius: 8px;
+    text-align: center;
+    padding: 8px;
+}
+#hasil-konversi {
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#kalkulasi {
+    padding: 8px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.desc-kalkulasi {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#jenis-konversi {
+    padding: 5px;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+    padding-top: 1rem;
+    text-align: center;
+}
+
+.btn {
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.section-kalkulasi {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#descRumus {
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5rem;
+    display: flex;
+    color: white;
+}
